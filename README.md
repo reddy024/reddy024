@@ -1,42 +1,36 @@
-![Lakshmanan Meiyappan Banner Image](./banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
-
-<h2>Hey! 👋</h2>
-
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
-
-I'm Rakesh Kusa! 
+# Hey! I'm Rakesh Kusa!👋
 - <i>Currently:</i> MS CS Student at Northwest missouri state Univerity. 
 - <i>Previously:</i> Production Engineer at Tata consultancy Services.
 
-<h2>💻 I'm Currently workng on</h2>
+# I'm Currently working on 💻 
 
-- System Design and Distributed Computing
-- Software Engineering
+- Designing of an Webiste that describes My portfolio.
+- Connecting with Backend Server.
+- Software Devolopment using DataStructures and Algorithms
 
 
 __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/laxmena/PyCalendly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
+    <a href="https://github.com/reddy024/from-kusa">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reddy024&repo=from-kusa" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/laxmena/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
+    <a href="(https://github.com/reddy024/myfirstrepo)">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reddy024&repo=myfirstrepo" alt="GitHub Stats" />
     </a>
   </p>
 </div>
 
-<h2> About Laxmena⚡:</h2>
+# About Rakesh⚡
 
-I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
- 
-- Check out my Blog: [https://laxmena.com](https://laxmena.com)
-- Know more about me: [About Laxmena](https://laxmena.com/pages/about)
-- Write to me: [ConnectWith@laxmena.com](mailto:ConnectWith@laxmena.com)
+I'm a Graduate Student living in Maryville, MO. I love to read, enjoy music ,play games like badminton and table-tennis and explore nature.
 
-<h2>📫 How to reach me:</h2>
+## 📫 How to reach me:
 
 <a href="mailto:rakeshkusa024@gmail.com">![ConnectWith@rakesh.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/rakesh-kusa-bba594218/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<br>
+[Link Text](https://github.com/reddy024)
+
+git add README.md
+git commit -m "Link README.md to reddy024"
