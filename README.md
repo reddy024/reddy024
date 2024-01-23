@@ -1,10 +1,10 @@
-<h2>Hey! 👋</h2>
+# Hey!
 
 I'm Rakesh Kusa! 
 - <i>Currently:</i> MS CS Student at Northwest missouri state Univerity. 
 - <i>Previously:</i> Production Engineer at Tata consultancy Services.
 
-<h2>💻 I'm Currently workng on</h2>
+## 💻 I'm Currently workng on
 
 - Designing of an Webiste that describes My portfolio.
 - Connecting with Backend Server.
@@ -24,10 +24,10 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
-<h2> About Rakesh⚡:</h2>
+# About Rakesh⚡
 
-I'm a Graduate Student living in Maryville, MO. Outside Tech, I love to read, enjoy music and explore nature outdoors.s
+I'm a Graduate Student living in Maryville, MO. Outside Tech, I love to read, enjoy music and explore nature outdoors.
 
-<h2>📫 How to reach me:</h2>
+## 📫 How to reach me:
 
 <a href="mailto:rakeshkusa024@gmail.com">![ConnectWith@rakesh.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/rakesh-kusa-bba594218/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
