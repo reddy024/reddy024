@@ -19,7 +19,7 @@ __Check out my GitHub repository:__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=reddy024&repo=from-kusa" alt="GitHub Stats" />
     </a>
     <a href="(https://github.com/reddy024/myfirstrepo)">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reddy024&repo=myfirstrepo alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reddy024&repo=myfirstrepo" alt="GitHub Stats" />
     </a>
   </p>
 </div>
