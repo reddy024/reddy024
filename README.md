@@ -6,9 +6,9 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
 
-I'm Lakshmanan Meiyappan! 
-- <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
-- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
+I'm Rakesh Kusa! 
+- <i>Currently:</i> MS CS Student at Northwest missouri state Univerity. 
+- <i>Previously:</i> Production Engineer at Tata consultancy Services.
 
 <h2>💻 I'm Currently workng on</h2>
 
@@ -55,4 +55,4 @@ I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjo
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:ConnectWith@laxmena.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:rakeshkusa024@gmail.com">![ConnectWith@rakesh.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/rakesh-kusa-bba594218/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
