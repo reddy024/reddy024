@@ -29,22 +29,6 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
-<h2>👀 Stats</h2>
-
-<div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmena" alt="GitHub Stats" /> <br/><br/>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
-  </p>
-</div>
-
 <h2> About Laxmena⚡:</h2>
 
 I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
