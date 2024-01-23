@@ -12,8 +12,9 @@ I'm Rakesh Kusa!
 
 <h2>💻 I'm Currently workng on</h2>
 
-- System Design and Distributed Computing
-- Software Engineering
+- Designing of an Webiste that describes My portfolio.
+- Connecting with Backend Server.
+- Software Devolopment using DataStructures and Algorithms
 
 
 __Check out my GitHub repository:__
