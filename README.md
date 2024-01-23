@@ -1,10 +1,8 @@
-# Hey!
-
-I'm Rakesh Kusa! 
+# Hey! I'm Rakesh Kusa!👋
 - <i>Currently:</i> MS CS Student at Northwest missouri state Univerity. 
 - <i>Previously:</i> Production Engineer at Tata consultancy Services.
 
-## 💻 I'm Currently workng on
+# I'm Currently working on 💻 
 
 - Designing of an Webiste that describes My portfolio.
 - Connecting with Backend Server.
