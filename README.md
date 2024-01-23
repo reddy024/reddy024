@@ -24,7 +24,7 @@ __Check out my GitHub repository:__
 
 <!--# About Rakesh⚡
 
-I'm a Graduate Student living in Maryville, MO. I love to read, enjoy music ,play games like badminton and table-tennis and explore nature.>>
+I'm a Graduate Student living in Maryville, MO. I love to read, enjoy music ,play games like badminton and table-tennis and explore nature.
 
 ## 📫 How to reach me:
 
