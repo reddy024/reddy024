@@ -31,3 +31,6 @@ I'm a Graduate Student living in Maryville, MO. I love to read, enjoy music ,pla
 <a href="mailto:rakeshkusa024@gmail.com">![ConnectWith@rakesh.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/rakesh-kusa-bba594218/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <br>
 [Link Text](https://github.com/reddy024)
+
+git add README.md
+git commit -m "Link README.md to reddy024"
