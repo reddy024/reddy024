@@ -18,8 +18,8 @@ __Check out my GitHub repository:__
     <a href="https://github.com/reddy024/from-kusa">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=reddy024&repo=from-kusa" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/laxmena/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
+    <a href="(https://github.com/reddy024/myfirstrepo)">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reddy024&repo=myfirstrepo alt="GitHub Stats" />
     </a>
   </p>
 </div>
