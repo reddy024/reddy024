@@ -29,13 +29,9 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
-<h2> About Laxmena⚡:</h2>
+<h2> About Rakesh⚡:</h2>
 
-I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
- 
-- Check out my Blog: [https://laxmena.com](https://laxmena.com)
-- Know more about me: [About Laxmena](https://laxmena.com/pages/about)
-- Write to me: [ConnectWith@laxmena.com](mailto:ConnectWith@laxmena.com)
+I'm a Graduate Student living in Maryville, MO. Outside Tech, I love to read, enjoy music and explore nature outdoors.s
 
 <h2>📫 How to reach me:</h2>
 
