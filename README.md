@@ -1,6 +1,6 @@
 # Hey! I'm Rakesh Kusa!👋
 - <i>Currently:</i> MS CS Student at Northwest missouri state Univerity. 
-- <i>Previously:</i> Production Engineer at Tata consultancy Services.
+- <i>Previously:</i> Software Engineer at Tata consultancy Services.
 
 # I'm Currently working on 💻 
 
